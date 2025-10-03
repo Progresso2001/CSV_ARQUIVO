@@ -1,0 +1,42 @@
+Nome,Idade,Cidade,Profissão,Salario,Marca de Carro,Casa,Filhos
+Ana Martins,28,São Paulo,Engenheira de Software,8500,Ford,Sim,2
+Carlos Souza,35,Rio de Janeiro,Médico,15000,BMW,Sim,1
+Juliana Alves,42,Belo Horizonte,Professora,5200,Fiat,Nao,3
+Marcos Pereira,31,Curitiba,Analista de Dados,6900,Toyota,Sim,0
+Larissa Gomes,26,Salvador,Advogada,9200,Renault,Nao,1
+Pedro Lima,39,Fortaleza,Arquiteto,12000,Chevrolet,Sim,2
+Fernanda Rocha,45,Porto Alegre,Gestora de Projetos,14000,Mercedes,Sim,2
+Rafael Santos,33,Recife,Designer Gráfico,4800,Volkswagen,Nao,0
+Beatriz Oliveira,29,Campinas,Enfermeira,5600,Ford,Sim,1
+Thiago Nunes,37,Manaus,Consultor Financeiro,11000,Honda,Sim,2
+Leonardo Santos,29,Natal,Psicólogo,14003,BMW,Sim,2
+Paula Freitas,26,São Paulo,Supervisor de Produção,13602,Fiat,Sim,0
+Sabrina Camargo,23,Manaus,Desenvolvedor Mobile,16206,Ford,Sim,4
+Leonardo Rezende,47,Manaus,Enfermeiro,6650,Mercedes,Nao,4
+Gustavo Gomes,43,Maceió,Vendedor,4229,Nissan,Sim,3
+Tatiane Freitas,26,Salvador,Publicitário,15362,Volkswagen,Nao,2
+Juliana Souza,59,Manaus,Analista de Marketing,7426,Toyota,Sim,0
+Priscila Camargo,43,Porto Alegre,Vendedor,7780,Ford,Sim,3
+Diana Gomes,46,Manaus,Administrador,17188,Honda,Sim,4
+Gustavo Oliveira,37,Rio de Janeiro,Consultor Financeiro,14269,Renault,Nao,4
+Sueli Santos,33,Porto Alegre,Arquiteto,5594,Citroen,Nao,2
+Márcia Torres,52,Curitiba,Professora,16709,Renault,Sim,3
+Rafael Almeida,31,Belo Horizonte,Engenheiro Civil,10530,Volkswagen,Nao,1
+Larissa Ramos,25,Recife,Técnica de Laboratório,6345,Chevrolet,Nao,0
+Regina Miranda,42,Fortaleza,Gerente de RH,12200,Honda,Sim,2
+Sérgio Souza,37,Rio de Janeiro,Desenvolvedor Backend,13890,Ford,Sim,2
+Vanessa Lopes,28,Manaus,Nutricionista,8450,Fiat,Nao,1
+Bruno Pires,44,Salvador,Administrador,15600,Hyundai,Sim,3
+Célia Farias,33,São Paulo,Vendedora,7040,Toyota,Nao,0
+Denis Carvalho,39,Natal,Analista de Sistemas,11700,Renault,Sim,1
+Patrícia Araújo,30,Belo Horizonte,Psicóloga,9570,Volkswagen,Nao,2
+Alexandre Cruz,41,Porto Alegre,Supervisor de Logística,12780,Fiat,Sim,3
+Jéssica Tavares,36,Maceió,Arquiteta,11150,Nissan,Nao,2
+Ricardo Cardoso,45,São Paulo,Professor Universitário,15300,Volkswagen,Sim,0
+Tatiana Silva,29,Salvador,Contadora,8720,Citroen,Nao,1
+Américo Santos,38,Curitiba,Enfermeiro,9650,Toyota,Sim,2
+Isabela Moura,47,Ftaleza,Advogada,14820,Chevrolet,Sim,3
+William Rocha,34,Recife,Analista Financeiro,11300,Hyundai,Nao,1
+Bianca Castro,31,Porto Alegre,Gestora Ambiental,10150,Honda,Sim,0
+Gabriel Figueira,27,Manaus,Desenvolvedor Frontend,9600,Ford,Nao,2
+Simone Peixoto,39,Rio de Janeiro,Pedagoga,10510,Renault,Nao,3
