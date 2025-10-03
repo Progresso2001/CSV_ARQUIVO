@@ -24,7 +24,7 @@ Uma aplicação simples para leitura e exibição de dados de um arquivo `.csv` 
 
 ## Como Usar
 
-1. Certifique-se de ter um arquivo chamado `AULA_Python.csv` no caminho:
+1. Certifique-se de ter um arquivo chamado `AULA_Python.csv` ou pode ser criando um outro prefencial no caminho:
    ```
    C:\Users\lenovo\OneDrive\Documents\AULA_Python.csv
    ```
@@ -68,10 +68,6 @@ Contribuições são bem-vindas! Para colaborar:
    git push origin feature-nova
    ```
 5. Abra um Pull Request explicando suas alterações.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Autor
 
